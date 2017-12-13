@@ -1,0 +1,14 @@
+com/websystique/springboot/service/LanguageService.class
+com/websystique/springboot/service/ProcesorServiceImpl.class
+com/websystique/springboot/service/ProcesorServiceNgramsRequest.class
+com/websystique/springboot/controller/RestApiController.class
+com/websystique/springboot/service/ProcesorService.class
+com/websystique/springboot/model/Comment.class
+com/websystique/springboot/model/User.class
+com/websystique/springboot/util/CustomErrorType.class
+com/websystique/springboot/controller/ProcessorApiController.class
+com/websystique/springboot/service/LanguageServiceImpl.class
+com/websystique/springboot/SpringBootRestApiApp.class
+com/websystique/springboot/model/Ngram.class
+com/websystique/springboot/model/Answer.class
+com/websystique/springboot/service/ProcesorServiceNgramsRequestImpl.class

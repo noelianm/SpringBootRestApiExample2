@@ -1,0 +1,14 @@
+/Users/nnavarro/SpringBootRestApiExample/src/main/java/com/websystique/springboot/SpringBootRestApiApp.java
+/Users/nnavarro/SpringBootRestApiExample/src/main/java/com/websystique/springboot/controller/ProcessorApiController.java
+/Users/nnavarro/SpringBootRestApiExample/src/main/java/com/websystique/springboot/model/Comment.java
+/Users/nnavarro/SpringBootRestApiExample/src/main/java/com/websystique/springboot/service/ProcesorServiceNgramsRequestImpl.java
+/Users/nnavarro/SpringBootRestApiExample/src/main/java/com/websystique/springboot/controller/RestApiController.java
+/Users/nnavarro/SpringBootRestApiExample/src/main/java/com/websystique/springboot/service/LanguageServiceImpl.java
+/Users/nnavarro/SpringBootRestApiExample/src/main/java/com/websystique/springboot/model/Ngram.java
+/Users/nnavarro/SpringBootRestApiExample/src/main/java/com/websystique/springboot/model/User.java
+/Users/nnavarro/SpringBootRestApiExample/src/main/java/com/websystique/springboot/service/LanguageService.java
+/Users/nnavarro/SpringBootRestApiExample/src/main/java/com/websystique/springboot/model/Answer.java
+/Users/nnavarro/SpringBootRestApiExample/src/main/java/com/websystique/springboot/util/CustomErrorType.java
+/Users/nnavarro/SpringBootRestApiExample/src/main/java/com/websystique/springboot/service/ProcesorService.java
+/Users/nnavarro/SpringBootRestApiExample/src/main/java/com/websystique/springboot/service/ProcesorServiceNgramsRequest.java
+/Users/nnavarro/SpringBootRestApiExample/src/main/java/com/websystique/springboot/service/ProcesorServiceImpl.java

@@ -1,0 +1,1 @@
+while read line; do curl -H "Accept: application/json" -H "Content-type: application/json" -X POST -d  '{"comment":"'"$line"'","unigrams":"test","bigrams":"test","trigrams":"test","processTimeNgrams": 0}' "http://localhost:8080/SpringBootRestApi/analyze/answer/"; echo  ",\n" ; done <com100000.txt> output.txt
